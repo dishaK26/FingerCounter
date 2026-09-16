@@ -1,1 +1,2 @@
 Hand_landmarker.txt
+opencv-python numpy mediapipe
